@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChandrashekharRobbi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 100 Days of Python Pro Bootcamp By Dr Angela Yu
+- 🌱 I’m currently learning Complete Machine Learning and DataScience Bootcamp by Andrei Neagoie
 - 📫 How to reach me comment me i am reading every comment
 
 <!---
