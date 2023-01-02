@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChandrashekharRobbi
 
 
-- 👀 I’m interested in Machine Learning , Deep Learning.
+- 👀 I’m interested in Machine Learning , Deep Learning & Data Science
 
 
 - 🌱 I’m currently learning Data Science from GeeksForGeeks.
