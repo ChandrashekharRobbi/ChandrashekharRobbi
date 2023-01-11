@@ -67,6 +67,8 @@
 </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrashekharrobbi&show_icons=true&locale=en&layout=compact" alt="chandrashekharrobbi" /></p>
+<p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api/top-langs?username=chandrashekharrobbi&show_icons=true&locale=en&layout=compact" alt="chandrashekharrobbi" /></p>
+
+<p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=24292f" alt="chandrashekharrobbi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&" alt="chandrashekharrobbi" /></p>
