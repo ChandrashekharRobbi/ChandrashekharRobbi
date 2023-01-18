@@ -66,8 +66,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 </a> 
 </p>
-
-<p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api/top-langs?username=chandrashekharrobbi&show_icons=true&locale=en&layout=compact" alt="chandrashekharrobbi" /></p>
+<!-- 
+<p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api/top-langs?username=chandrashekharrobbi&show_icons=true&locale=en&layout=compact" alt="chandrashekharrobbi" /></p> -->
 
 <p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" /></p>
 
