@@ -74,5 +74,5 @@
 <p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" /></p>
 
 <!-- <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-7hb2.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000">
-<img src="https://github-readme-stats-7hb2.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" style="max-width: 100%;"></a> -->
+<img src="github-readme-stats-7hb2.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" style="max-width: 100%;"></a> -->
 </p>
