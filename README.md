@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Chandrashekhar Robbi (<a href="https://chandrashekharrobbi.github.io/Website/" target="_blank">Website</a>)</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Chandrashekhar Robbi
+=====================================================================================================================================
+
 <!-- <h4>My Website : <a href="https://chandrashekharrobbi.github.io/Website/" target="_blank">Chandrashekhar Robbi</a></h4> -->
 
-- 👀 I’m interested in **Machine Learning , Deep Learning & Data Science**
 
-- 🌱 I’m currently learning **Data Science From GeeksForGeeks**
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Website](http://chandrashekharrobbi.github.io/Website/)
+* 👀 I’m interested in **Machine Learning , Deep Learning & Data Science**
+* 🌱 I’m currently learning **Data Science From GeeksForGeeks**
+* 🧠  I'm learning Data Science from Geeks for Geeks
+* 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [chandrashekharrobbi789@gmail.com](mailto:chandrashekharrobbi789@gmail.com)
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/robbi_chandra20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robbi_chandra20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandrashekar-robbi-59bb4a197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrashekar-robbi-59bb4a197" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chandrashekarrobbi789/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chandrashekarrobbi789/practice" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.github.com/chandrashekharrobbi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chandrashekharrobbi?logo=github&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
+<a href="https://www.twitter.com/RobbiChandra20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RobbiChandra20?logo=twitter&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -66,11 +70,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   
 </p>
-<!-- 
-<p><img align="center" src="https://github-readme-stats-7hb2.vercel.app/api/top-langs?username=chandrashekharrobbi&show_icons=true&locale=en&layout=compact" alt="chandrashekharrobbi" /></p> -->
 
+
+<b>My GitHub Stats</b>
+<!-- 
+<p><img align="center" src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" /></p> -->
+
+<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&" alt="chandrashekharrobbi" /></p>
+<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrashekharrobbi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<p><img align="center" src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" /></p>
+
+
+<!-- 
+<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrashekharrobbi&bg_color=ffffff&color=000000&line=ef4444&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/chandrashekharrobbi/GFG-DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrashekharrobbi&repo=GFG-DSA&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a>
+<a href="https://github.com/chandrashekharrobbi/Convolutional-Neural-Network-with-Tensorflow" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrashekharrobbi&repo=Convolutional-Neural-Network-with-Tensorflow&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
