@@ -71,9 +71,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 </p>
 
-
-
-
 <b>My GitHub Stats:</b>
 
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
