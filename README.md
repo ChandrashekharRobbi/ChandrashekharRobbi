@@ -72,9 +72,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-<b>My GitHub Stats</b>
-<!-- 
-<p><img align="center" src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=000000&icon_color=79ff97&text_color=0000f&bg_color=0000" alt="chandrashekharrobbi" /></p> -->
+
+
+<b>My GitHub Stats:</b>
 
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
 
@@ -84,10 +84,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<!-- 
-<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrashekharrobbi&bg_color=ffffff&color=000000&line=ef4444&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
 <b>Top Repositories</b>
