@@ -85,5 +85,5 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/chandrashekharrobbi/GFG-DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrashekharrobbi&repo=GFG-DSA&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a>
-<a href="https://github.com/chandrashekharrobbi/Convolutional-Neural-Network-with-Tensorflow" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrashekharrobbi&repo=Convolutional-Neural-Network-with-Tensorflow&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/chandrashekharrobbi/GFG-DSA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrashekharrobbi&repo=GFG-DSA&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=false&locale=en" /></a>
+<a href="https://github.com/chandrashekharrobbi/Convolutional-Neural-Network-with-Tensorflow" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrashekharrobbi&repo=Convolutional-Neural-Network-with-Tensorflow&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=false&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
