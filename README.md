@@ -8,7 +8,6 @@
 * 🖥️  See my portfolio at [Website](http://chandrashekharrobbi.github.io/Website/)
 * 👀 I’m interested in **Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently learning **Data Science From GeeksForGeeks**
-* 🧠  I'm learning Data Science from Geeks for Geeks
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekharrobbi789@gmail.com](mailto:chandrashekharrobbi789@gmail.com)
 
