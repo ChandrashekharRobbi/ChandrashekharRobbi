@@ -71,6 +71,7 @@
   
 </p>
 <a href="https://github.com/piyushsuthar/github-readme-quotes" ><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="GitHub Commits Graph" align="right"/></a>
+<hr/>
 
 <b>My GitHub Stats:</b>
 
