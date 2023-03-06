@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 
+<!-- Intro -->
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Website](http://chandrashekharrobbi.github.io/Website/)
 * 👀 I’m interested in **Machine Learning , Deep Learning & Data Science**
@@ -18,6 +19,7 @@
 <a href="https://www.github.com/chandrashekharrobbi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chandrashekharrobbi?logo=github&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
 <a href="https://www.twitter.com/RobbiChandra20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RobbiChandra20?logo=twitter&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
 
+<!-- Language and Tools -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -73,6 +75,8 @@
 <a href="https://github.com/piyushsuthar/github-readme-quotes" ><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="GitHub Commits Graph" align="right"/></a>
 <hr/>
 
+<!-- My Github Stats -->
+
 <b>My GitHub Stats:</b>
 
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-7hb2-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
@@ -82,7 +86,7 @@
 
 
 
-
+<!-- Top Repositories  -->
 
 
 <b>Top Repositories</b>
