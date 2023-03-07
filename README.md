@@ -19,6 +19,7 @@
 
 <a href="https://www.github.com/chandrashekharrobbi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chandrashekharrobbi?logo=github&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
 <a href="https://www.twitter.com/RobbiChandra20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RobbiChandra20?logo=twitter&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharrobbi&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharrobbi" /> </p>
 
 <!-- Language and Tools -->
 
