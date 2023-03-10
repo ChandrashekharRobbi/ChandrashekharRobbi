@@ -10,7 +10,7 @@
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Website](http://chandrashekharrobbi.github.io/Website/)
 * 👀 I’m interested in **Machine Learning , Deep Learning & Data Science**
-* 🌱 I’m currently learning **Data Science From GeeksForGeeks**
+* 🌱 I’m currently learning **Data Structures and Algorithms From GeeksForGeeks**
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 
