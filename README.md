@@ -71,7 +71,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 </p>
-<a href="https://github.com/piyushsuthar/github-readme-quotes" ><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="GitHub Commits Graph" align="right"/></a>
+<!-- <a href="https://github.com/piyushsuthar/github-readme-quotes" ><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="GitHub Commits Graph" align="right"/></a> -->
 <hr/>
 
 <!-- My Github Stats -->
