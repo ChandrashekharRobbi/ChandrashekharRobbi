@@ -8,7 +8,7 @@
 <!-- Intro -->
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Website](http://chandrashekharrobbi.github.io/Website/)
+* 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
 * 👀 I’m interested in **Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently learning **Data Structures and Algorithms From GeeksForGeeks**
 * 🤝  I'm open to collaborating on interesting projects
