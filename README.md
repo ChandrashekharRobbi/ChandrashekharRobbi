@@ -14,8 +14,8 @@
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 * 🧠 Solved 
-	* 200+ questions on <a href="https://auth.geeksforgeeks.org/user/chandrashekarrobbi789" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="gfg" width="20" height="20"/>
-</a>
+	* 200+ DSA questions on <a href="https://auth.geeksforgeeks.org/user/chandrashekarrobbi789" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="gfg" width="20" height="10"/> </a>
+	* 50+ DSA questions on <a href="https://leetcode.com/crobbi/" target="_blank" rel="noreferrer"> <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode" width="15" height="15"/> </a>
 
 
 
