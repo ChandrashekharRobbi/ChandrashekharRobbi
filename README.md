@@ -13,7 +13,9 @@
 * 🌱 I’m currently learning **Data Structures and Algorithms From GeeksForGeeks**
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
-* 🧠 Solved 200+ questions on [Geeks For Geeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789)
+* 🧠 Solved 
+	* 200+ questions on <a href="https://auth.geeksforgeeks.org/user/chandrashekarrobbi789" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="gfg" width="20" height="20"/>
+</a>
 
 
 
