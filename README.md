@@ -81,7 +81,7 @@
 
 <b>My GitHub Stats:</b>
 
-<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-r62y7drrd-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
+<a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&" alt="chandrashekharrobbi" /></p>
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chandrashekharrobbi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
