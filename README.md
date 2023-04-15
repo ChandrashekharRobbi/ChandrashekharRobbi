@@ -25,7 +25,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharrobbi&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharrobbi" /> </p>
 
 
-# Language and Tools
+## Language and Tools
 
 <!--- <h3 align="left">Languages and Tools:</h3> ---->
 <p align="left"> 
@@ -77,7 +77,7 @@
 </p>
 <!-- <a href="https://github.com/piyushsuthar/github-readme-quotes" ><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="GitHub Commits Graph" align="right"/></a> -->
 
-# My Github Stats
+## My Github Stats
 
 
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
