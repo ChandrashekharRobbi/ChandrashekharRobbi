@@ -24,9 +24,10 @@
 <a href="https://www.twitter.com/RobbiChandra20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RobbiChandra20?logo=twitter&style=for-the-badge&color=f97316&labelColor=1e3a8a" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharrobbi&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharrobbi" /> </p>
 
-<!-- Language and Tools -->
 
-<h3 align="left">Languages and Tools:</h3>
+# Language and Tools
+
+<!--- <h3 align="left">Languages and Tools:</h3> ---->
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -75,11 +76,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
 </p>
 <!-- <a href="https://github.com/piyushsuthar/github-readme-quotes" ><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="GitHub Commits Graph" align="right"/></a> -->
-<hr/>
 
-<!-- My Github Stats -->
+# My Github Stats
 
-<b>My GitHub Stats:</b>
 
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-git-master-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a>
 
