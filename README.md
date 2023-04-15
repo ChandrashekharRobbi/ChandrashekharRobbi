@@ -26,6 +26,16 @@
 
 
 ## Language and Tools
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" width=110 height=30 /> </span>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" width=110 height=30 />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" width=110 height=30 />
+<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" width=110 height=30 />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" width=110 height=30 />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" width=110 height=30 />
+<img src="https://img.shields.io/badge/Tableau-1c447e?style=plastic&logo=tableau&logoColor=black" width=110 height=30 />
+<img src="" width=110 height=30 />
+</p>
 
 <!--- <h3 align="left">Languages and Tools:</h3> ---->
 <p align="left"> 
