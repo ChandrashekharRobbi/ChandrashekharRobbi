@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
-* 👀 I’m interested in **Machine Learning , Deep Learning & Data Science** and **Notion** 
+* 👀 I’m interested in **Machine Learning , Deep Learning & Data Science** and ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 * 🌱 I’m currently learning **Data Structures and Algorithms From GeeksForGeeks**
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
