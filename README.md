@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
-* 👀 I’m interested in **Machine Learning , Deep Learning & Data Science** and **Automation**
+* 👀 I’m interested in **Automation**,**Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently learning 
 	* **Data Structures and Algorithms From [GeeksForGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789/practice)** 
 	* **Notion** from [Productive Dude](https://www.youtube.com/watch?v=IrIAmq80VEE&list=PLuJCSkbX9W56nhlV3pnvYJJilXyA0w-ka)
