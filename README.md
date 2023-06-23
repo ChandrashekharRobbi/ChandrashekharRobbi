@@ -13,7 +13,6 @@
 * 👀 I’m interested in **Automation**,**Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently learning 
 	* **Data Structures and Algorithms From [GeeksForGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789/practice)** 
-	* **Notion** from [Productive Dude](https://www.youtube.com/watch?v=IrIAmq80VEE&list=PLuJCSkbX9W56nhlV3pnvYJJilXyA0w-ka)
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 * 🧠 Solved 
