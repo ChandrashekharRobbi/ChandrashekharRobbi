@@ -17,7 +17,7 @@
 * 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
 * 👀 I’m interested in **Automation**,**Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently learning 
-	* **Data Structures and Algorithms From [GeeksForGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789/practice)** 
+	* **Deep Learning Specialization Course By Andrew Ng on [Courseera](https://www.coursera.org/specializations/deep-learning#courses)** 
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 * 🧠 Solved 
