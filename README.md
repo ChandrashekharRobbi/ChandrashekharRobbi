@@ -14,7 +14,6 @@
 * 👀 I’m interested in **Automation**,**Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently refreshing my knowledge: 
 	* **Deep Learning Specialization Course By Andrew Ng on [Courseera](https://www.coursera.org/specializations/deep-learning#courses)**
-   	* **The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert** on [Udemy](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 * 🧠 Solved 
