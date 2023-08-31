@@ -22,6 +22,8 @@
 * 🧠 Solved 
 	* 200+ DSA questions on <a href="https://auth.geeksforgeeks.org/user/chandrashekarrobbi789" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="gfg" width="20" height="10"/> </a>
 	* 120+ DSA questions on   <a href="https://leetcode.com/crobbi/" target="_blank" rel="noreferrer"> <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode" width="15" height="15"/> </a>
+ * 🎯 Task which i have to add in the github repo:
+	* In CNN repo add Frontend for each model using either Streamlit or Gradio and deploy on Hugging Face Spaces
 
 
 
