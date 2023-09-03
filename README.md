@@ -21,7 +21,13 @@
 ## 🔥 What I'm up to
 
 🎯 **On my to-do list:** 
-- Enhance the CNN repo by integrating frontends using Streamlit or Gradio. Planning to deploy on Hugging Face Spaces.
+- Enhance the repo by integrating frontends using Streamlit or Gradio. Planning to deploy on Hugging Face Spaces
+  	- [ ] Paddy Doctor
+ 	- [x] Category Predict
+  	- [ ] Fashion MNIST
+  	- [x] MNIST Digit Classifier
+  	- [x] LipNet
+  	- [ ] Medical Insurance
 
 
 
