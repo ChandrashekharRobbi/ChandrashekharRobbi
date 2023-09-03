@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <!-- Intro -->
-
+## 👨‍💻 About Me
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
 * 👀 I’m interested in **Automation**,**Machine Learning , Deep Learning & Data Science**
@@ -15,18 +15,18 @@
 	* **Deep Learning Specialization Course By Andrew Ng on [Courseera](https://www.coursera.org/specializations/deep-learning#courses)**
 * 🤝  I'm open to collaborating on interesting projects
 * ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
-* 🧠 Solved 
-	* 200+ DSA questions on <a href="https://auth.geeksforgeeks.org/user/chandrashekarrobbi789" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="gfg" width="20" height="10"/> </a>
-	* 120+ DSA questions on   <a href="https://leetcode.com/crobbi/" target="_blank" rel="noreferrer"> <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode" width="15" height="15"/> </a>
- * 🎯 Task which i have to add in the github repo:
-	* In CNN repo add Frontend for each model using either Streamlit or Gradio and deploy on Hugging Face Spaces
+* 🧠 Solved
+ 	* 200+ DSA questions on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789)
+ 	* 120+ DSA questions on [LeetCode](https://leetcode.com/crobbi/)
+## 🔥 What I'm up to
+
+🎯 **On my to-do list:** 
+- Enhance the CNN repo by integrating frontends using Streamlit or Gradio. Planning to deploy on Hugging Face Spaces.
 
 
 
 
-<a href="https://www.github.com/chandrashekharrobbi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chandrashekharrobbi?logo=github&style=plastic&color=f97316&labelColor=1e3a8a" /></a>
-<a href="https://www.twitter.com/RobbiChandra20" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RobbiChandra20?logo=twitter&style=plastic&color=f97316&labelColor=1e3a8a" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharrobbi&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharrobbi" /> </p>
+<img src="https://komarev.com/ghpvc/?username=chandrashekharrobbi&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharrobbi" /> </p>
 
 
 ## Language and Tools
@@ -152,3 +152,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChandrashekharRobbi&theme=chalk&no-frame=true&margin-w=4)
+
+## 🌍 Connect with Me
+
+Let's turn virtual connections into real ones! Catch me on [Twitter](https://www.twitter.com/RobbiChandra20) and [GitHub](https://www.github.com/chandrashekharrobbi).
