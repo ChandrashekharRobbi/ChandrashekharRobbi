@@ -142,6 +142,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&" alt="chandrashekharrobbi" /></p>
 
+#### Accidentally deleted a repo and my 240-day streak reset to 167 days, but the journey continues! 🥲
+
 <!-- <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-szp8rz19j-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrashekharrobbi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
