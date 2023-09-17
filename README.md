@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
-* 👀 I’m interested in **Automation**,**Machine Learning , Deep Learning & Data Science**
+* 👀 I’m interested in **Python Devloper**,**Automation**,**Machine Learning , Deep Learning & Data Science**
 * 🌱 I’m currently refreshing my knowledge: 
 	* **Deep Learning Specialization Course By Andrew Ng on [Courseera](https://www.coursera.org/specializations/deep-learning#courses)**
 * 🤝  I'm open to collaborating on interesting projects
