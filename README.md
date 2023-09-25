@@ -140,7 +140,6 @@ Hey I'm Chandrashekhar Robbi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrashekharrobbi&" alt="chandrashekharrobbi" /></p>
 
-#### Accidentally deleted a repo and my 240-day streak reset to 167 days, but the journey continues! 🥲
 
 <!-- <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-stats-szp8rz19j-chandrashekharrobbi.vercel.app/api?username=chandrashekharrobbi&show_icons=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="chandrashekharrobbi's GitHub stats" /></a> -->
 
