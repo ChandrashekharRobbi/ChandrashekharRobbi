@@ -147,9 +147,7 @@ Hey I'm Chandrashekhar Robbi
 <a href="http://www.github.com/chandrashekharrobbi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrashekharrobbi&bg_color=ffffff&color=000000&line=f97316&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
 
 
-## My Achievements
 
-![image](https://github.com/ChandrashekharRobbi/ChandrashekharRobbi/assets/91750738/e89d5d39-fec4-43c3-a3b6-6976153592f7)
 
 <!-- Top Repositories  -->
 
