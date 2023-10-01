@@ -6,27 +6,26 @@ Hey I'm Chandrashekhar Robbi
 
 
 <!-- Intro -->
-## 👨‍💻 About Me
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Chandrashekhar Robbi](http://chandrashekharrobbi.github.io/Website/)
-* 👀 I’m interested in **Python Devloper**,**Automation**,**Machine Learning , Deep Learning & Data Science**
-* 🌱 I’m currently refreshing my knowledge: 
-	* **Deep Learning Specialization Course By Andrew Ng on [Courseera](https://www.coursera.org/specializations/deep-learning#courses)**
-* 🤝  I'm open to collaborating on interesting projects
-* ✉️  You can contact me at [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
-* 🧠 Solved
- 	* 200+ DSA questions on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789)
- 	* 120+ DSA questions on [LeetCode](https://leetcode.com/crobbi/)
+### 🌟 About Me
+- 🌍 Based in **India**.
+- 🖥️ Check out my [portfolio](http://chandrashekharrobbi.github.io/Website/).
+- 🛠 **Python Developer** with a keen interest in **Automation**, **Machine Learning**, **Deep Learning** & **Data Science**.
+- 🌱 Currently diving deep into the **Deep Learning Specialization** by Andrew Ng on [Coursera](https://www.coursera.org/specializations/deep-learning#courses).
+- 🚀 Solved 200+ DSA questions on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789) and 120+ on [LeetCode](https://leetcode.com/crobbi/).
+- 💌 Reach out to me: [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 ## 🔥 What I'm up to
 
-🎯 **On my to-do list:** 
-- Enhance the repo by integrating frontends using Streamlit or Gradio. Planning to deploy on Hugging Face Spaces
-  	- [ ] Paddy Doctor
- 	- [x] Category Predict
-  	- [ ] Fashion MNIST
-  	- [x] MNIST Digit Classifier
-  	- [x] LipNet
-  	- [ ] Medical Insurance
+### 🔭 Projects & Goals
+
+**On my to-do list:** 
+- [ ] Paddy Doctor
+- [x] Category Predict
+- [ ] Fashion MNIST
+- [x] MNIST Digit Classifier
+- [x] LipNet
+- [ ] Medical Insurance
+
+🤝 **Let's collaborate!** I'm open to interesting projects and networking opportunities.
 
 
 
