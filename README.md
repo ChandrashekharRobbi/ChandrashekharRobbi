@@ -23,6 +23,7 @@ Hey I'm Chandrashekhar Robbi
 - [x] MNIST Digit Classifier
 - [x] LipNet
 - [ ] Medical Insurance
+- [ ] Web App For Scikit Learn
 
 🤝 **Let's collaborate!** I'm open to interesting projects and networking opportunities.
 
