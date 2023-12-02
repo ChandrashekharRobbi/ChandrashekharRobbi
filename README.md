@@ -13,7 +13,7 @@ Hey I'm Chandrashekhar Robbi
 - 🖥️ Check out my [portfolio](http://chandrashekharrobbi.github.io/Website/).
 - 🛠 **Python Developer** with a keen interest in **Automation**, **Machine Learning**, **Deep Learning** & **Data Science**.
 - 🌱 Currently diving deep into the **Deep Learning Specialization** by Andrew Ng on [Coursera](https://www.coursera.org/specializations/deep-learning#courses).
-- 🚀 Solved 200+ DSA questions on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789) and 120+ on [LeetCode](https://leetcode.com/crobbi/).
+- 🚀 Solved 200+ DSA questions on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chandrashekarrobbi789) and 150+ on [LeetCode](https://leetcode.com/crobbi/).
 - 💌 Reach out to me: [chandrashekarrobbi789@gmail.com](mailto:chandrashekarrobbi789@gmail.com)
 ## 🔥 What I'm up to
 
